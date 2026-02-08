@@ -86,7 +86,7 @@ Welcome to your **COMPLETE** Java tutorial! This repository contains **25 compre
 25. **Lesson25_StreamAPI.java** - Stream API (Java 8+)
     - Stream operations, filter/map/reduce, collectors, parallel streams
 
-### **💼 Expert & Staff Level** (Lessons 26-33)
+### **💼 Expert & Staff Level** (Lessons 26-42)
 26. **Lesson26_Multithreading.java** - Multithreading & Concurrency
     - Threads, ExecutorService, synchronization, locks, atomic variables, producer-consumer
 
@@ -110,6 +110,33 @@ Welcome to your **COMPLETE** Java tutorial! This repository contains **25 compre
 
 33. **Lesson33_AdvancedCollections.java** - Advanced Collections & Data Structures
     - Custom data structures, graphs, trees, tries, LRU cache, Big O complexity
+
+34. **Lesson34_ModuleSystem.java** - Java Module System (JPMS)
+    - Modules, module-info.java, exports/requires, migration, jlink, modular JARs
+
+35. **Lesson35_Testing_TDD.java** - Testing & Test-Driven Development
+    - JUnit, unit tests, mocking, TDD cycle, assertions, best practices
+
+36. **Lesson36_NIO_AsyncIO.java** - NIO & Asynchronous I/O
+    - Buffers, channels, non-blocking I/O, async file operations, FileChannel
+
+37. **Lesson37_Serialization.java** - Serialization & Deserialization
+    - Java serialization, JSON, XML, transient, serialVersionUID, deep copy
+
+38. **Lesson38_ModernJavaFeatures.java** - Modern Java Features (Java 14-21)
+    - var, Records, Sealed Classes, Pattern Matching, Text Blocks, Switch Expressions, Virtual Threads
+
+39. **Lesson39_CompletableFuture.java** - CompletableFuture & Advanced Async
+    - Async programming, thenApply, thenCompose, thenCombine, exception handling, combining futures
+
+40. **Lesson40_Performance_JMH.java** - Performance Tuning & JMH
+    - Benchmarking, JMH, profiling, JIT compilation, optimization best practices
+
+41. **Lesson41_Security_Cryptography.java** - Security & Cryptography
+    - Hashing, encryption (AES, RSA), digital signatures, secure random, password storage, OWASP
+
+42. **Lesson42_Logging.java** - Logging Frameworks
+    - SLF4J, Logback, log levels, structured logging, MDC, best practices
 
 ### **📖 Bonus Materials**
 - **QuickReference.java** - Quick syntax reference and cheat sheet
@@ -175,10 +202,10 @@ Lessons 5 and 14 require user input. Run them in your terminal.
 
 ## 📊 Repository Statistics
 
-- **33 Complete Lessons** (Beginner to Expert/Staff Level)
-- **20,000+ Lines of Code**
-- **150+ Java Topics**
-- **300+ Practical Examples**
+- **42 Complete Lessons** (Beginner to Expert/Staff Level)
+- **30,000+ Lines of Code**
+- **200+ Java Topics**
+- **500+ Practical Examples**
 - **Everything Fully Commented**
 
 ## 🎓 Completion Checklist
@@ -231,6 +258,15 @@ Lessons 5 and 14 require user input. Run them in your terminal.
 - [ ] Lesson 31: Networking & Sockets
 - [ ] Lesson 32: Memory Management & GC
 - [ ] Lesson 33: Advanced Collections & Data Structures
+- [ ] Lesson 34: Java Module System (JPMS)
+- [ ] Lesson 35: Testing & TDD
+- [ ] Lesson 36: NIO & Async I/O
+- [ ] Lesson 37: Serialization
+- [ ] Lesson 38: Modern Java Features
+- [ ] Lesson 39: CompletableFuture & Async
+- [ ] Lesson 40: Performance Tuning & JMH
+- [ ] Lesson 41: Security & Cryptography
+- [ ] Lesson 42: Logging Frameworks
 
 ## 🎯 After Completing This Course
 
